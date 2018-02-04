@@ -15,5 +15,4 @@ public class FirstTest {
 			System.out.println(labelT.getId() + "  fr"+ labelT.getFr() + "  nl:" + labelT.getNl());
 		}
 	}
-
 }
