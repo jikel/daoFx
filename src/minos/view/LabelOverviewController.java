@@ -36,14 +36,6 @@ public class LabelOverviewController {
     	lastNameLabel.setText(labelT.find(3).getFr());
     	bTranslate.setText(labelT.find(1).getFr());
     	openWindow.setText(labelT.find(4).getFr());
-    	
-    	
-    	
-    	//firstNameLabel.setText("prenom");
-    	//lastNameLabel.setText("test de nom");
-    	//bTranslate.setText("traduire");
-    	//openWindow.setText("ouvrir fenêtre");
-
     }
     
     /**
